@@ -1,7 +1,7 @@
 # Los Angeles Crimes Online server
 
 # ENG:
-L.A Crimes Online server for Linux (Debian and Ubuntu too)
+Los Angeles Crimes Online server for Linux (Debian and Ubuntu too)
 
 Download LacServer.sh to the server and start it "sh LacServer.sh"
 
@@ -12,7 +12,7 @@ After the installation is complete, you will be told where to change the server 
 In the server configuration file, everything is commented (that is, you will be able to understand what this setting is)
 
 # RU:
-L.A Crimes Online сервер для Linux (Debian и Ubuntu тоже)
+Los Angeles Crimes Online сервер для Linux (Debian и Ubuntu тоже)
 
 Загрузите LacServer.sh на сервер и запустите его "sh LacServer.sh"
 
