@@ -9,6 +9,8 @@ After launching, the installation process will begin, it is fast
 
 After the installation is complete, you will be told where to change the server configuration, how to start the server and how to stop the server if necessary.
 
+In the server configuration file, everything is commented (that is, you will be able to understand what this setting is)
+
 # RU:
 L.A Crimes Online сервер для Linux (Debian и Ubuntu тоже)
 
@@ -17,3 +19,5 @@ L.A Crimes Online сервер для Linux (Debian и Ubuntu тоже)
 После запуска начнется процесс установки, он быстрый
 
 После завершения установки вам будет сообщено, где изменить конфигурацию сервера, как запустить сервер и как остановить сервер при необходимости.
+
+В файле конфигурации сервера все прокомментировано (тоесть вы сможете понять, что это за настройка)
